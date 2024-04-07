@@ -1,0 +1,1 @@
+Insider collect signal demo
